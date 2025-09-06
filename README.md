@@ -12,6 +12,7 @@ The primary goal of this repository is to track my progress and deepen my unders
 • Well-documented: Include clear explanations, code comments, and complexity analysis.
 
 Languages and Technologies
+
 • Java: My primary language for tackling a wide range of problems, especially those involving object-oriented design and standard data structures.
 
 • C++: Utilized for performance-critical problems and competitive programming challenges where efficiency is paramount.
